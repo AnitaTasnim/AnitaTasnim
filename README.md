@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi, I'm Anita Tasnim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Passionate+Researcher+and+ML+Enthusiast,;Pursuing+ICT+BSc+Engineering,;Focused+on+Graph+Neural+Networks,;Open+to+ML+and+Bioinformatics+Collaborations."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..;++;Passionate+Researcher+and+ML+Enthusiast,;Pursuing+ICT+BSc+Engineering,;Focused+on+Graph+Neural+Networks,;Open+to+ML+and+Bioinformatics+Collaborations."></a>
 </p>
 
 <br>
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px"></picture>
+<picture> <img align="right" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F533958099562057982%2F&psig=AOvVaw05T6M0JgC_U7E4KLHGsJ2X&ust=1698090815669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjaurC3ioIDFQAAAAAdAAAAABAP)" width="500px"></picture>
 
 <br>
 
@@ -39,9 +39,13 @@ Personal Links:
 - **Seaborn**: Proficient in Seaborn, a data visualization library.
 - **Matlab**: Familiar with Matlab, a numerical computing environment.
 
-**GitHub Stats**:
+GitHub Stats:
 
-- **Top Languages**: Python is the primary language used in GitHub repositories.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=anitatasnim&show_icons=true&locale=en" alt="anitatasnim" />
+</p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitatasnim&" alt="anitatasnim" /></p>
 
 <h1 align="center"><b>Let's Connect!</b></h1>
 <div align='left'>
@@ -91,6 +95,6 @@ Personal Links:
 
 ---
 
-owner: [Anita Tasnim](https://linkedin.com/in/anita-tasnim)
+Credit: [Anita Tasnim](https://linkedin.com/in/anita-tasnim)
 
-
+Last Edited on: [Insert Last Edited Date]
