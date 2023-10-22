@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Anita Tasnim </b><img src="[https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=]" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Anita Tasnim </b><img src="[https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=]" width="100"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum+Warahmatullah..;++;Passionate+Researcher+and+ML+Enthusiast,;Pursuing+ICT+BSc+Engineering,;Focused+on+Graph+Neural+Networks,;Open+to+ML+and+Bioinformatics+Collaborations."></a>
