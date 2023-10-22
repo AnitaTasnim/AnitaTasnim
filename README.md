@@ -1,6 +1,7 @@
 
 
-<h1 align="center"><b>Hi, I'm Anita Tasnim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h1>
+## <h1 align="center"><b>Hi, I'm Anita Tasnim </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"></h1>
+<h1 align="center">👋 Hi there, I'm Anita Tasnim</h1>
 <!--  -->
 
 
@@ -13,7 +14,8 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 <br>
 
-<picture> <img align="right" src="https://pin.it/Spaluw2" width="550px"></picture>
+
+## <picture> <img align="right" src="https://pin.it/Spaluw2" width="550px"></picture>
 
 <br>
 
