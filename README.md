@@ -93,6 +93,6 @@ GitHub Stats:
 
 ---
 
-Credit: [Anita Tasnim](https://linkedin.com/in/anita-tasnim)
+Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: [Insert Last Edited Date]
+
