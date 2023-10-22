@@ -8,7 +8,9 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
-<picture> <img align="right" src="[[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F533958099562057982%2F&psig=AOvVaw05T6M0JgC_U7E4KLHGsJ2X&ust=1698090815669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjaurC3ioIDFQAAAAAdAAAAABAP)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F533958099562057982%2F&psig=AOvVaw05T6M0JgC_U7E4KLHGsJ2X&ust=1698090815669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjaurC3ioIDFQAAAAAdAAAAABAP)" width="500px"></picture>
+<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F533958099562057982%2F&psig=AOvVaw05T6M0JgC_U7E4KLHGsJ2X&ust=1698090815669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjaurC3ioIDFQAAAAAdAAAAABAP" width="550px"></picture>
+
+ 
 
 <br>
 
