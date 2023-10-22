@@ -42,13 +42,12 @@ Personal Links:
 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anitatasnim&show_icons=true&locale=en" alt="anitatasnim" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anitatasnim&show_icons=true&locale=en&layout=compact" alt="anitatasnim" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitatasnim&" alt="anitatasnim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anitatasnim&show_icons=true&locale=en" alt="anitatasnim" /></p>
 
-<h1 align="center"><b>Let's Connect!</b></h1>
-<div align='left'>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anitatasnim&" alt="anitatasnim" /></p>
 
 <ul>
 
