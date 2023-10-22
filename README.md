@@ -9,7 +9,7 @@
 
 <!-- Profile Views and Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anitatasnim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=anitatasnim&style=flat&color=0e75b6" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 </p>
 
 <!-- Introduction -->
-<p align="center">🔬 I'm a passionate researcher in the fields of **Machine Learning** and **Deep Learning**, contributing to cutting-edge **Bioinformatics** projects.</p>
+<p align="center">🔬 I'm a passionate researcher delving into **Machine Learning** and **Deep Learning**, with a focus on **Bioinformatics**. I thrive at the intersection of technology and biology.</p>
 
-<p align="center">🌱 I'm a lifelong learner, always seeking to expand my knowledge and expertise. I'm particularly intrigued by **Graph Neural Networks**, **Computer Vision**, and **Image Processing**. I'm also excited to explore **Natural Language Processing (NLP)**.</p>
+<p align="center">🌱 Lifelong learner, aspiring to conquer **Graph Neural Networks**, **Computer Vision**, and **Image Processing**. Excited to venture into the world of **Natural Language Processing (NLP)**.</p>
 
-<p align="center">💼 Let's collaborate on exciting research projects! I'm open to new opportunities, so feel free to reach out if you share my passion.</p>
+<p align="center">💼 Open to collaborations on research projects. If you share my passion, let's make the future better together.</p>
 
 <!-- Connect with Me -->
 <h3 align="center">🌐 Connect with me:</h3>
@@ -39,7 +39,7 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="https://kaggle.com/anita-tasnim" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt "Kaggle" height="30" width="30" />
   </a>
   <a href="https://fb.com/proma102367" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="30" />
@@ -83,7 +83,7 @@
 
 <!-- GitHub Stats and Streak -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anitatasnim&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anitatasnim&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
