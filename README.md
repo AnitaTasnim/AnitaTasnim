@@ -12,21 +12,21 @@
 
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
 
-<picture> <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F533958099562057982%2F&psig=AOvVaw05T6M0JgC_U7E4KLHGsJ2X&ust=1698090815669000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIjaurC3ioIDFQAAAAAdAAAAABAP" width="550px"></picture>
+<picture> <img align="right" src="https://pin.it/Spaluw2" width="550px"></picture>
 
  
 
 <br>
 
-- A passionate researcher and ML enthusiast
-- Pursuing a degree in ICT BSc Engineering at Islamic University Bangladesh
-- Research interests include graph neural networks, computer vision, image processing, and NLP
-- Open to collaborating with fellow researchers and developers on ML and Bioinformatics projects
-- 🧠 AI & ML Researcher | ICT BSc Student 🎓 | 🇧🇩 Bangladeshi
-- 🌱 Exploring the fascinating realms of AI, ML, and Bioinformatics.
-- 💡 Passionate about Graph Neural Networks (GNNs), Computer Vision, and Image Processing.
-- 🚀 On a mission to bridge technology and life sciences through AI solutions.
-- 📖 Eager to dive into Natural Language Processing (NLP).
+-  A passionate researcher and ML enthusiast
+-  Pursuing a degree in ICT BSc Engineering at Islamic University Bangladesh
+-  Research interests include graph neural networks, computer vision, image processing, and NLP
+-  Open to collaborating with fellow researchers and developers on ML and Bioinformatics projects
+-  🧠 AI & ML Researcher | ICT BSc Student 🎓 | 🇧🇩 Bangladeshi
+-  🌱 Exploring the fascinating realms of AI, ML, and Bioinformatics.
+-  💡 Passionate about Graph Neural Networks (GNNs), Computer Vision, and Image Processing.
+-  🚀 On a mission to bridge technology and life sciences through AI solutions.
+-  📖 Eager to dive into Natural Language Processing (NLP).
 
 Personal Links:
 
