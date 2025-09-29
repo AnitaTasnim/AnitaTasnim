@@ -13,11 +13,11 @@
 
 -  A passionate researcher and ML enthusiast
 -  Pursuing a degree in ICT BSc Engineering at Islamic University Bangladesh
--  Research interests include graph neural networks, computer vision, image processing, and NLP
--  Open to collaborating with fellow researchers and developers on ML and Bioinformatics projects
+-  Research interests include Object Detection, pose estimation, autonomous vehicle, graph neural networks, computer vision, image processing, and NLP
+-  Open to collaborating with fellow researchers and developers on ML and Deep learning projects
 -  🧠 AI & ML Researcher | ICT BSc Student 🎓 | 🇧🇩 Bangladeshi
 -  🌱 Exploring the fascinating realms of AI, ML, and Bioinformatics.
--  💡 Passionate about Graph Neural Networks (GNNs), Computer Vision, and Image Processing.
+-  💡 Passionate about, Computer Vision, and Image Processing.
 -  🚀 On a mission to bridge technology and life sciences through AI solutions.
 -  📖 Eager to dive into Natural Language Processing (NLP).
 
