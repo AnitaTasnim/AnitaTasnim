@@ -12,7 +12,7 @@
 <br>
 
 -  A passionate researcher and ML enthusiast
--  Pursuing a degree in ICT BSc Engineering at Islamic University Bangladesh
+-  degree in ICT BSc Engineering at Islamic University Bangladesh
 -  Research interests include Object Detection, pose estimation, autonomous vehicle, graph neural networks, computer vision, image processing, and NLP
 -  Open to collaborating with fellow researchers and developers on ML and Deep learning projects
 -  🧠 AI & ML Researcher | ICT BSc Student 🎓 | 🇧🇩 Bangladeshi
